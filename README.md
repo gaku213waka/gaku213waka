@@ -1,60 +1,42 @@
-<!-- GitHub profile repository: gaku213waka/gaku213waka -->
+<!-- Profile README for github.com/gaku213waka -->
 <div align="center">
-  <img src="assets/hero.svg" alt="Gakuto Wakabayashi — finding the story in the data, illustrated in coral and pink" width="100%" />
+  <img src="assets/intro.svg" alt="Gakuto Wakabayashi — data analytics student exploring questions through SQL, Python, and visualization" width="100%" />
 </div>
 
 <br />
 
-<div align="center">
-  <b>こんにちは、若林岳人です。</b><br />
-  東京電機大学で情報分野を学びながら、データの中にある「なぜ？」を探しています。<br />
-  SQLとPythonで傾向を捉え、伝わる可視化と次の一手につなげるのが好きです。
-</div>
-
-<br />
-
-<div align="center">
-  <img src="assets/section-work.svg" alt="Selected work — curious questions, useful answers" width="100%" />
-</div>
-
-<br />
+### Selected work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/gaku213waka/ecommerce-sales-analysis"><img src="assets/project-ec.svg" alt="E-commerce analytics illustration: shopping bag and customer segments" width="100%" /></a>
-      <h3><a href="https://github.com/gaku213waka/ecommerce-sales-analysis">01 / E-commerce sales analysis ↗</a></h3>
-      <p>ECの購買データから顧客の動きを観察。RFM分析とコホート分析を通じて、売上につながる施策を考えました。</p>
-      <sub>RFM · COHORT · CUSTOMER ANALYTICS</sub>
+    <td width="110" align="center"><img src="assets/commerce.svg" alt="Small shopping bag illustration" width="72" /></td>
+    <td>
+      <strong><a href="https://github.com/gaku213waka/ecommerce-sales-analysis">E-commerce sales analysis ↗</a></strong><br />
+      Customer purchasing patterns through RFM and cohort analysis, with ideas for improving retention and sales.<br />
+      <sub>Python · SQL · RFM · Cohort analysis</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/gaku213waka/User_Behavior_Analysis"><img src="assets/project-web.svg" alt="User behavior illustration: a visual funnel and cursor" width="100%" /></a>
-      <h3><a href="https://github.com/gaku213waka/User_Behavior_Analysis">02 / User behavior analysis ↗</a></h3>
-      <p>流入から購入までのユーザー行動を分析。チャネル、デバイス、ファネルを見て、改善の糸口を探しました。</p>
-      <sub>BIGQUERY · FUNNEL · DIGITAL ANALYTICS</sub>
+  </tr>
+  <tr>
+    <td width="110" align="center"><img src="assets/behavior.svg" alt="Small funnel illustration" width="72" /></td>
+    <td>
+      <strong><a href="https://github.com/gaku213waka/User_Behavior_Analysis">User behavior analysis ↗</a></strong><br />
+      Exploring traffic sources, devices, and the path to purchase to find where users drop off.<br />
+      <sub>BigQuery · Funnel analysis · Visualization</sub>
     </td>
   </tr>
 </table>
 
 <br />
 
-<div align="center">
-  <img src="assets/section-toolkit.svg" alt="My toolkit — collect, explore, explain" width="100%" />
-</div>
+### Tech stack
+
+<img src="assets/stack.svg" alt="Technology badges for Python, pandas, SQL, PostgreSQL, BigQuery, Tableau, Matplotlib, scikit-learn, Snowflake, dbt, Docker, Streamlit, GitHub, Jupyter and Java" width="100%" />
 
 <br />
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>01 / Explore</b><br /><br />Python · pandas<br />SQL · PostgreSQL<br />BigQuery</td>
-    <td width="33%" valign="top"><b>02 / Understand</b><br /><br />EDA · RFM · Cohort<br />Matplotlib · Tableau<br />scikit-learn</td>
-    <td width="33%" valign="top"><b>03 / Build</b><br /><br />Snowflake · dbt<br />Docker · GitHub<br />Streamlit</td>
-  </tr>
-</table>
+### On my desk <sub>— in progress</sub>
 
-<br />
+**Hotel booking cancellation analysis**  
+Exploring what drives cancellations and building a prediction model using information available at booking time. The analysis is still in progress; findings and code will be shared when it is ready.
 
-<div align="center">
-  <img src="assets/footer.svg" alt="Currently exploring: hotel booking cancellations. The best next question starts with why." width="100%" />
-</div>
-
+<sub>Tokyo, Japan · Ask better questions. Make clearer decisions.</sub>

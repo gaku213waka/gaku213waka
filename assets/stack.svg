@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-labelledby="t d">
+<title id="t">Tech stack</title><desc id="d">Colored rectangular technology badges with icons and labels.</desc>
+<rect x="12" y="10" width="286" height="52" rx="2" fill="#3776ab"/>
+<path d="M66 18v36" stroke="#ffffff" opacity=".45"/>
+<text x="39" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Py</text>
+<text x="79" y="43" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Python</text>
+<rect x="311" y="10" width="286" height="52" rx="2" fill="#6749ab"/>
+<path d="M365 18v36" stroke="#ffffff" opacity=".45"/>
+<text x="338" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">pd</text>
+<text x="378" y="43" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">pandas</text>
+<rect x="610" y="10" width="286" height="52" rx="2" fill="#ba4a73"/>
+<path d="M664 18v36" stroke="#ffffff" opacity=".45"/>
+<text x="637" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="white">SQL</text>
+<text x="677" y="43" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">SQL</text>
+<rect x="909" y="10" width="286" height="52" rx="2" fill="#336791"/>
+<path d="M963 18v36" stroke="#ffffff" opacity=".45"/>
+<text x="936" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">PG</text>
+<text x="976" y="43" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">PostgreSQL</text>
+<rect x="12" y="74" width="286" height="52" rx="2" fill="#5577d0"/>
+<path d="M66 82v36" stroke="#ffffff" opacity=".45"/>
+<text x="39" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">BQ</text>
+<text x="79" y="107" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">BigQuery</text>
+<rect x="311" y="74" width="286" height="52" rx="2" fill="#a4583a"/>
+<path d="M365 82v36" stroke="#ffffff" opacity=".45"/>
+<text x="338" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Tb</text>
+<text x="378" y="107" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Tableau</text>
+<rect x="610" y="74" width="286" height="52" rx="2" fill="#4b858a"/>
+<path d="M664 82v36" stroke="#ffffff" opacity=".45"/>
+<text x="637" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">M</text>
+<text x="677" y="107" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Matplotlib</text>
+<rect x="909" y="74" width="286" height="52" rx="2" fill="#c77132"/>
+<path d="M963 82v36" stroke="#ffffff" opacity=".45"/>
+<text x="936" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">sk</text>
+<text x="976" y="107" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">scikit-learn</text>
+<rect x="12" y="138" width="286" height="52" rx="2" fill="#3e98aa"/>
+<path d="M66 146v36" stroke="#ffffff" opacity=".45"/>
+<text x="39" y="171" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Sf</text>
+<text x="79" y="171" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Snowflake</text>
+<rect x="311" y="138" width="286" height="52" rx="2" fill="#be5f50"/>
+<path d="M365 146v36" stroke="#ffffff" opacity=".45"/>
+<text x="338" y="171" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="white">dbt</text>
+<text x="378" y="171" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">dbt</text>
+<rect x="610" y="138" width="286" height="52" rx="2" fill="#317db1"/>
+<path d="M664 146v36" stroke="#ffffff" opacity=".45"/>
+<text x="637" y="171" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Dk</text>
+<text x="677" y="171" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Docker</text>
+<rect x="909" y="138" width="286" height="52" rx="2" fill="#c44e6b"/>
+<path d="M963 146v36" stroke="#ffffff" opacity=".45"/>
+<text x="936" y="171" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">St</text>
+<text x="976" y="171" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Streamlit</text>
+<rect x="12" y="202" width="286" height="52" rx="2" fill="#545068"/>
+<path d="M66 210v36" stroke="#ffffff" opacity=".45"/>
+<text x="39" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Gh</text>
+<text x="79" y="235" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">GitHub</text>
+<rect x="311" y="202" width="286" height="52" rx="2" fill="#b26b36"/>
+<path d="M365 210v36" stroke="#ffffff" opacity=".45"/>
+<text x="338" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Jp</text>
+<text x="378" y="235" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Jupyter</text>
+<rect x="610" y="202" width="286" height="52" rx="2" fill="#8c5679"/>
+<path d="M664 210v36" stroke="#ffffff" opacity=".45"/>
+<text x="637" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">Jv</text>
+<text x="677" y="235" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="1" fill="white">Java</text>
+</svg>

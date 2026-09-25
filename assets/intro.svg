@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d"><title id="t">Gakuto Wakabayashi</title><desc id="d">Minimal black header with pink typography and English introduction.</desc>
+<rect width="1200" height="300" fill="#0d1017"/><path d="M44 37h1109" stroke="#8f2f59" stroke-width="2"/><circle cx="49" cy="37" r="5" fill="#dd4b85"/>
+<text x="48" y="82" fill="#c7487e" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">HELLO, I'M</text>
+<text x="45" y="160" fill="#e05a93" font-family="Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-2">GAKUTO WAKABAYASHI</text>
+<text x="48" y="209" fill="#ee80ad" font-family="Arial,sans-serif" font-size="23">I study information systems and explore data with SQL and Python.</text>
+<text x="48" y="245" fill="#d35386" font-family="Arial,sans-serif" font-size="21">I like finding the question behind a pattern—and turning it into a useful next step.</text>
+<path d="M48 273h1103" stroke="#8f2f59" stroke-width="2"/><text x="1050" y="82" fill="#b3396b" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">TOKYO / JP</text>
+</svg>
