@@ -2,6 +2,13 @@
   <img src="assets/profile-header.svg" width="100%" alt="Gakuto Wakabayashi — Data Analytics and Data Science">
 </p>
 
+<p align="center">
+  <a href="#profile"><img src="https://img.shields.io/badge/PROFILE-080B12?style=for-the-badge" alt="Profile"></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-2563EB?style=for-the-badge" alt="Projects"></a>
+  <a href="#technology"><img src="https://img.shields.io/badge/TECHNOLOGY-3730A3?style=for-the-badge" alt="Technology"></a>
+  <a href="#currently-learning"><img src="https://img.shields.io/badge/LEARNING-3730A3?style=for-the-badge" alt="Currently Learning"></a>
+</p>
+
 ## Profile
 
 情報分野を学びながら、**SQLとPythonを中心としたデータ分析**に取り組んでいます。
@@ -54,15 +61,71 @@
 
 <br>
 
-## Skills
+## Technology
 
-| Category | Technology |
-|:--|:--|
-| **Languages / Data** | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3730A3?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-080B12?style=flat-square&logo=openjdk&logoColor=white) |
-| **Analysis / ML** | ![pandas](https://img.shields.io/badge/pandas-3730A3?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-2563EB?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-080B12?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-2563EB?style=flat-square&logoColor=white) |
-| **Database / Platform** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-3730A3?style=flat-square&logo=googlebigquery&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-38BDF8?style=flat-square&logo=snowflake&logoColor=080B12) ![dbt](https://img.shields.io/badge/dbt-080B12?style=flat-square&logo=dbt&logoColor=white) |
-| **BI / Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-3730A3?style=flat-square&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-2563EB?style=flat-square&logo=streamlit&logoColor=white) |
-| **Development** | ![Git](https://img.shields.io/badge/Git-080B12?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-3730A3?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-080B12?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-3730A3?style=flat-square&logo=jupyter&logoColor=white) |
+> 分析の目的と工程に合わせて、使用技術を5つのカテゴリに整理しています。
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Languages &amp; Query</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/SQL-3730A3?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
+        <img src="https://img.shields.io/badge/Java-080B12?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+      </p>
+      <sub>データ抽出、集計、分析処理、基礎的なアプリケーション開発。</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Data Analysis</h3>
+      <p>
+        <img src="https://img.shields.io/badge/pandas-3730A3?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas">
+        <img src="https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/scikit--learn-080B12?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+        <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge" alt="Matplotlib">
+      </p>
+      <sub>データ整形、探索的分析、統計・機械学習、結果の可視化。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Database &amp; Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/BigQuery-3730A3?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery">
+        <img src="https://img.shields.io/badge/Snowflake-2563EB?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white" alt="Snowflake">
+        <img src="https://img.shields.io/badge/dbt-080B12?style=for-the-badge&amp;logo=dbt&amp;logoColor=white" alt="dbt">
+      </p>
+      <sub>データの保存、SQL分析、クラウドDWH、分析用データモデルの構築。</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · BI &amp; Visualization</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Tableau-3730A3?style=for-the-badge&amp;logo=tableau&amp;logoColor=white" alt="Tableau">
+        <img src="https://img.shields.io/badge/Streamlit-2563EB?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
+      </p>
+      <sub>KPIの可視化、ダッシュボード設計、分析結果を伝えるための画面作成。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · Development Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-080B12?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-3730A3?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/VS_Code-080B12?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/Jupyter-3730A3?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter">
+      </p>
+      <sub>バージョン管理、実行環境、分析Notebook、開発ワークフロー。</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Workflow</h3>
+      <p><code>SQL</code> → <code>Python</code> → <code>Visualization</code> → <code>Decision</code></p>
+      <sub>技術単体ではなく、分析から意思決定までの流れを重視しています。</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -71,7 +134,7 @@
 ![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-080B12?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3730A3?style=flat-square)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square)
-![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-38BDF8?style=flat-square&logoColor=080B12)
+![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-3730A3?style=flat-square)
 
 <br>
 
