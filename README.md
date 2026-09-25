@@ -1,117 +1,108 @@
-﻿<div align="center">
+<p align="left">
+  <sub>DATA ANALYTICS &nbsp;&middot;&nbsp; DATA SCIENCE</sub>
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:8957e5,100:39d353&height=190&section=header&text=gaku213waka&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Learning,%20building,%20and%20getting%20better%20one%20commit%20at%20a%20time&descSize=16&descAlignY=56&animation=fadeIn" alt="gaku213waka profile banner" />
+# Gakuto Wakabayashi
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+gaku213waka;Python+%2F+Data+Analysis+Learner;Java+and+Web+Development+Explorer;Always+learning%2C+always+building" alt="Typing SVG" />
-  </a>
+**Turning data into insight—and insight into better decisions.**
 
-  <br />
+Information systems student focused on analytics, visualization, and data-informed problem solving.
 
-  <a href="https://github.com/gaku213waka?tab=followers">
-    <img src="https://img.shields.io/github/followers/gaku213waka?color=238636&label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/gaku213waka?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/gaku213waka?color=8957e5&label=Stars&logo=star&style=for-the-badge" alt="GitHub stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gaku213waka&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<br>
 
-</div>
+## About
 
-<br />
+大学で情報分野を学びながら、SQLとPythonを軸にデータ分析へ取り組んでいます。
 
-<details open>
-  <summary><h2>About Me</h2></summary>
+関心があるのは、数値を集計して終わる分析ではありません。データを整え、探索し、可視化することで傾向や課題を見つけ、ビジネス上の改善案までつなげることです。個人プロジェクトでは、顧客行動・購買・コンバージョンを題材に、**問いの設計 → 分析 → 示唆 → 施策提案**までを一貫して行っています。
 
-  <p>
-    I am building up my skills through small projects, data analysis practice, and steady coding reps.
-    I like turning what I learn into something visible, useful, and a little cleaner than yesterday.
-  </p>
+<br>
 
-  <ul>
-    <li>Currently learning: Python, pandas, Java, and practical data analysis</li>
-    <li>Interested in: dashboards, automation, notebooks, and web apps</li>
-    <li>Style: learn by building, then polish by explaining</li>
-  </ul>
-</details>
+## Selected Work
 
-<details open>
-  <summary><h2>Tech Stack</h2></summary>
+### 01 / E-commerce Customer Analytics
 
-  <h3>Languages</h3>
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  </p>
+#### [ecommerce-sales-analysis](https://github.com/gaku213waka/ecommerce-sales-analysis) &nbsp;↗
 
-  <h3>Data and Notebooks</h3>
-  <p>
-    <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge" />
-  </p>
+ECサイトの購買データから、利益向上につながる顧客行動と継続課題を分析したプロジェクト。
 
-  <h3>Tools</h3>
-  <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />
-  </p>
-</details>
+| Focus | Stack |
+|:--|:--|
+| EDA · RFM分析 · コホート分析 · 顧客セグメンテーション | Python · pandas · BigQuery · Matplotlib |
 
-<details open>
-  <summary><h2>Featured Work</h2></summary>
+顧客属性と購買傾向を可視化し、初回購入後の離脱と優良顧客の育成を主要課題として特定。分析結果をもとに、リピート購入と顧客単価の向上に向けた施策を検討しました。
 
-  <p align="left">
-    <a href="https://github.com/gaku213waka/gaku213waka">
-      <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=gaku213waka&repo=gaku213waka&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=39D353" alt="gaku213waka repository card" />
-    </a>
-  </p>
+---
 
-  <p>
-    <a href="https://github.com/gaku213waka?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/-See%20More%20Repositories-0D1117?logo=repo&logoColor=white&style=for-the-badge" alt="See more repositories" />
-    </a>
-  </p>
+### 02 / User Behavior & Conversion Analysis
 
-  <!-- Add more project cards by duplicating the card above and changing repo=your-repository-name. -->
-</details>
+#### [User_Behavior_Analysis](https://github.com/gaku213waka/User_Behavior_Analysis) &nbsp;↗
 
-<details open>
-  <summary><h2>GitHub Stats</h2></summary>
+Google Analytics Sampleデータを用い、ECサイトで購入に至るまでのユーザー行動を分析したプロジェクト。
 
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gaku213waka&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=39D353&include_all_commits=true" alt="GitHub stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaku213waka&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top languages" />
-  </p>
+| Focus | Stack |
+|:--|:--|
+| 流入分析 · デバイス分析 · ファネル分析 · 離脱分析 | SQL · BigQuery · Python · pandas · Matplotlib |
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaku213waka&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-  </p>
+流入元、デバイス、ブラウザ、ランディングページ、離脱ページを段階的に分析。コンバージョンを妨げる要因を整理し、導線やUIの改善案につなげました。
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaku213waka&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-  </p>
-</details>
+<p align="right"><a href="https://github.com/gaku213waka?tab=repositories">View all repositories →</a></p>
 
-<details>
-  <summary><h2>Now Building</h2></summary>
+<!--
+Add future projects using the same structure:
+### 03 / Project Category
+#### [repository-name](repository-url) ↗
+One-line business context.
+| Focus | Stack |
+|:--|:--|
+| Analysis methods | Tools |
+One short paragraph covering the question, analysis, finding, and recommendation.
+-->
 
-  <ul>
-    <li>Cleaning and analyzing datasets with Python</li>
-    <li>Practicing readable notebooks and visual summaries</li>
-    <li>Improving Java fundamentals through small programs</li>
-    <li>Keeping this profile README alive as my work grows</li>
-  </ul>
-</details>
+<br>
 
-<br />
+## Toolkit
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:8957e5,100:1f6feb&height=110&section=footer" alt="footer wave" />
-</div>
+<sub>LANGUAGES / DATA</sub>
+
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=white)
+
+<sub>ANALYSIS / MACHINE LEARNING</sub>
+
+![pandas](https://img.shields.io/badge/pandas-18181B?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-18181B?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-18181B?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-18181B?style=flat-square)
+
+<sub>DATABASE / DATA PLATFORM</sub>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-18181B?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-18181B?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-18181B?style=flat-square&logo=dbt&logoColor=white)
+
+<sub>BI / VISUALIZATION</sub>
+
+![Tableau](https://img.shields.io/badge/Tableau-18181B?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-18181B?style=flat-square&logo=streamlit&logoColor=white)
+
+<sub>DEVELOPMENT / TOOLS</sub>
+
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-18181B?style=flat-square&logo=jupyter&logoColor=white)
+
+<br>
+
+## Currently Exploring
+
+`Advanced SQL` &nbsp;·&nbsp; `Machine Learning` &nbsp;·&nbsp; `Dashboard Design` &nbsp;·&nbsp; `Analytics Engineering`
+
+<br>
+
+<sub>Open to opportunities in data analytics and data science.</sub>
+
