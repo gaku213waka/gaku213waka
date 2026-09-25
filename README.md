@@ -35,27 +35,38 @@
 
 ## Projects
 
-### 01 — E-commerce Sales Analysis
+> データから課題を見つけ、分析結果を具体的なアクションへつなげたプロジェクトです。
 
-**ECサイトの購買データから、利益向上につながる顧客行動を分析**
-
-| Repository | Analysis | Tools |
-|:--|:--|:--|
-| [ecommerce-sales-analysis →](https://github.com/gaku213waka/ecommerce-sales-analysis) | EDA・RFM分析・コホート分析 | Python・pandas・BigQuery・Matplotlib |
-
-初回購入後の離脱と優良顧客の育成を主要課題として特定し、リピート購入と顧客単価の向上につながる施策を検討しました。
-
----
-
-### 02 — User Behavior Analysis
-
-**ECサイトへの流入から購入までを追い、コンバージョン上の課題を分析**
-
-| Repository | Analysis | Tools |
-|:--|:--|:--|
-| [User_Behavior_Analysis →](https://github.com/gaku213waka/User_Behavior_Analysis) | 流入・デバイス・ファネル・離脱分析 | SQL・BigQuery・Python・pandas |
-
-流入元、利用環境、ランディングページ、離脱ページを順に分析し、購入を妨げる要因から導線とUIの改善案を提案しました。
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gaku213waka/ecommerce-sales-analysis">
+        <img src="assets/project-ecommerce.svg" width="100%" alt="E-commerce Customer Analytics">
+      </a>
+      <h3>01 · E-commerce Sales Analysis</h3>
+      <p>購買データから、初回購入後の離脱と優良顧客の育成を主要課題として特定。リピート購入と顧客単価の向上につながる施策を検討しました。</p>
+      <p>
+        <img src="https://img.shields.io/badge/RFM-3730A3?style=flat-square" alt="RFM">
+        <img src="https://img.shields.io/badge/COHORT-2563EB?style=flat-square" alt="Cohort">
+        <img src="https://img.shields.io/badge/EDA-080B12?style=flat-square" alt="EDA">
+      </p>
+      <a href="https://github.com/gaku213waka/ecommerce-sales-analysis"><strong>VIEW PROJECT →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gaku213waka/User_Behavior_Analysis">
+        <img src="assets/project-behavior.svg" width="100%" alt="User Behavior and Conversion Analysis">
+      </a>
+      <h3>02 · User Behavior Analysis</h3>
+      <p>流入元、利用環境、ランディングページ、離脱ページを順に分析。購入を妨げる要因から、導線とUIの改善案を提案しました。</p>
+      <p>
+        <img src="https://img.shields.io/badge/FUNNEL-3730A3?style=flat-square" alt="Funnel">
+        <img src="https://img.shields.io/badge/BigQuery-2563EB?style=flat-square&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery">
+        <img src="https://img.shields.io/badge/SQL-080B12?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
+      </p>
+      <a href="https://github.com/gaku213waka/User_Behavior_Analysis"><strong>VIEW PROJECT →</strong></a>
+    </td>
+  </tr>
+</table>
 
 <p align="right"><a href="https://github.com/gaku213waka?tab=repositories">ALL REPOSITORIES →</a></p>
 
@@ -139,5 +150,5 @@
 <br>
 
 <p align="center">
-  <sub>BLACK · BLUE · LIGHT BLUE · INDIGO · WHITE</sub>
+  <code>SELECT curiosity, clarity, impact FROM every_project WHERE insight IS NOT NULL;</code>
 </p>
