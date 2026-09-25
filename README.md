@@ -1,35 +1,44 @@
-<p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Gakuto Wakabayashi — Data Analytics and Data Science">
+<h2>Hi, I'm Gakuto Wakabayashi.</h2>
+
+<img align="right" src="assets/data-orbit.svg" width="270" alt="Animated data analytics illustration">
+
+<p><em>Aspiring Data Analyst / Data Scientist<br>
+Turning raw data into clear stories and better decisions.</em></p>
+
+<p>
+  <a href="https://github.com/gaku213waka?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects"></a>
+  <img src="https://img.shields.io/badge/FOCUS-DATA_ANALYTICS-3730A3?style=flat-square" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/BASED_IN-JAPAN-080B12?style=flat-square" alt="Based in Japan">
 </p>
 
-<p align="center">
-  <a href="#profile"><img src="https://img.shields.io/badge/PROFILE-080B12?style=for-the-badge" alt="Profile"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-2563EB?style=for-the-badge" alt="Projects"></a>
-  <a href="#technology"><img src="https://img.shields.io/badge/TECHNOLOGY-3730A3?style=for-the-badge" alt="Technology"></a>
-  <a href="#currently-learning"><img src="https://img.shields.io/badge/LEARNING-3730A3?style=for-the-badge" alt="Currently Learning"></a>
-</p>
+情報分野を学びながら、**SQLとPythonを中心としたデータ分析**に取り組んでいます。データを集計して終わるのではなく、傾向や課題を発見し、ビジネス上の改善案へつなげることを大切にしています。
 
-## Profile
+### A little more about me
 
-情報分野を学びながら、**SQLとPythonを中心としたデータ分析**に取り組んでいます。
+```python
+gakuto = {
+    "role": "Information Systems Student",
+    "focus": ["Data Analytics", "Data Science"],
+    "languages": ["Python", "SQL", "Java"],
+    "interests": [
+        "customer behavior",
+        "data visualization",
+        "business intelligence",
+        "machine learning",
+    ],
+    "workflow": "question → analyze → visualize → propose",
+    "current_goal": "Turn insight into measurable action",
+    "fun_fact": "A good chart should answer a question before it creates a new one.",
+}
+```
 
-データを集計するだけでなく、分析から傾向や課題を見つけ、ビジネス上の改善案へつなげることを大切にしています。
+<br clear="right">
 
-| Focus | Approach | Goal |
-|:--|:--|:--|
-| 顧客・購買・行動データ | 抽出 → 整形 → 分析 → 可視化 | 意思決定につながる施策提案 |
+### How I approach data
 
-<br>
+`01 / QUESTION` → `02 / COLLECT` → `03 / ANALYZE` → `04 / VISUALIZE` → `05 / PROPOSE`
 
-## Analysis Process
-
-![01 Question](https://img.shields.io/badge/01-QUESTION-3730A3?style=for-the-badge&labelColor=080B12)
-![02 Collect](https://img.shields.io/badge/02-COLLECT-2563EB?style=for-the-badge&labelColor=080B12)
-![03 Analyze](https://img.shields.io/badge/03-ANALYZE-38BDF8?style=for-the-badge&labelColor=080B12)
-![04 Visualize](https://img.shields.io/badge/04-VISUALIZE-2563EB?style=for-the-badge&labelColor=080B12)
-![05 Propose](https://img.shields.io/badge/05-PROPOSE-3730A3?style=for-the-badge&labelColor=080B12)
-
-**問いを立てる** → データを集める → 分析する → 分かりやすく可視化する → **改善策を提案する**
+> 数字の変化を見つけるだけでなく、「なぜ起きたのか」「次に何をするか」まで考えます。
 
 <br>
 
@@ -146,6 +155,15 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3730A3?style=flat-square)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-3730A3?style=flat-square)
+
+<br>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaku213waka&amp;show_icons=true&amp;hide_border=false&amp;border_color=3730A3&amp;bg_color=080B12&amp;title_color=38BDF8&amp;text_color=F8FAFC&amp;icon_color=2563EB&amp;rank_icon=github" alt="Gakuto's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaku213waka&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_color=3730A3&amp;bg_color=080B12&amp;title_color=38BDF8&amp;text_color=F8FAFC" alt="Most used languages">
+</p>
 
 <br>
 
