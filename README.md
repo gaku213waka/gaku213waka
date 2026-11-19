@@ -51,6 +51,18 @@ Python・SQLを中心にデータ分析を学び、公開データを使った�
 
 [リポジトリを見る →](https://github.com/gaku213waka/User_Behavior_Analysis)
 
+### 4. GuruMeet — 食事会の店選びアプリ
+
+<a href="https://github.com/SHOGARI/GuruMeet"><img src="assets/gurumeet.svg" width="100%" alt="GuruMeetのリポジトリを開く" /></a>
+
+**2026技育ハッカソンvol.4参加作品・チーム開発（バックエンド担当）**
+
+- **目的:** 食事会の店選びを、招待リンクとスワイプ投票で決めるアプリ。人数・場所・予算から飲食店候補を出し、参加者の投票で店を決める。
+- **使用技術:** Flutter / Dart / FastAPI / PostgreSQL / Cloudflare Workers
+- **取り組み内容:** バックエンド・DB設計を担当。FastAPI + PostgreSQLで一時グループ、匿名参加、地点検索、店舗推薦、投票を実装。推薦は予算・人数・ジャンルの分散を考慮して並べる設計。
+
+[リポジトリを見る →](https://github.com/SHOGARI/GuruMeet)　｜　[アプリを開く →](https://gurumeet.net)
+
 ## ⚡ 技術スタック
 
 | 分野 | 技術 |
@@ -59,7 +71,7 @@ Python・SQLを中心にデータ分析を学び、公開データを使った�
 | 可視化 | `Matplotlib` `Seaborn` `Plotly` |
 | Machine Learning | `scikit-learn` `SHAP` |
 | データ基盤・DB | `BigQuery` `PostgreSQL` |
-| アプリ・開発環境 | `Streamlit` `Docker Compose` `Git` `GitHub` `Jupyter Notebook` |
+| アプリ・開発環境 | `Streamlit` `FastAPI` `Flutter` `Dart` `Cloudflare Workers` `Docker Compose` `Git` `GitHub` `Jupyter Notebook` |
 
 ## 📊 GitHubでの活動
 
